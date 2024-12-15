@@ -1,0 +1,67 @@
+main p, main b{
+    font-size:20px;color:#f87e0c;
+    text-shadow: 1px 1px 1px red, 0 0 0.7em rgb(21, 121, 12);}
+footer{
+    background-color: black;
+    color:#e47916;
+    padding: 1px;
+    margin: 20px;
+}
+a {
+    color:#e47916;
+    text-align: center;
+}
+main {
+    background-color:;
+    
+}
+.logo{
+    width: 150px;
+    height: 150px;
+}
+h1, h2{
+    text-align: center;
+    color:#f87e0c;
+
+}
+
+header h1{
+    display: inline;
+    margin: 20%;
+
+}
+
+nav{
+    margin-top: 50px;
+    display: flex;
+    background-color: #3f3d3b;
+    padding: 10px;
+    justify-content: space-around;
+    border-radius:15px;
+
+}
+
+nav a{
+    color: black;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 9px;
+    background-color: #ff7b00;
+    
+}
+.text {
+    border: 2px solid rgb(255, 136, 0);
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    background-color: #3f3d3bc7;
+}
+.img {
+     border: 2px solid rgb(255, 136, 0);
+     border-top-left-radius: 15px;
+     border-bottom-right-radius: 15px;
+}
+text-shadow: 1px 1px 1px red, 0 0 0.7em rgb(21, 121, 12), 0 0 0.3em rgb(14, 143, 46);
+.Poslugi {
+    margin-bottom:10px;
+}
